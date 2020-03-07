@@ -7,8 +7,8 @@
   "description": "快速解析sourcemap",
   "version": "1.0.0",
   "main": "sourcemap.js",
-  "bin":{
-    "luofeitest":"./bin/sourcemap"
+  "bin": {
+    "sourcemap": "./bin/sourcemap"
   },
   "devDependencies": {},
   "scripts": {
