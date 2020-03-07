@@ -1,5 +1,5 @@
 /**
- * node parse_error.js line column // 参数为行号列号
+ * sourcemap "错误信息"
  */
 var fs = require('fs');
 var sourceMap = require('source-map');

@@ -2,5 +2,26 @@
   "dependencies": {
     "axios": "^0.19.2",
     "source-map": "^0.7.3"
-  }
+  },
+  "name": "sourcemap",
+  "description": "快速解析sourcemap",
+  "version": "1.0.0",
+  "main": "sourcemap.js",
+  "bin":{
+    "luofeitest":"./bin/sourcemap"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luofei614/sourcemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luofei614/sourcemap/issues"
+  },
+  "homepage": "https://github.com/luofei614/sourcemap#readme"
 }
